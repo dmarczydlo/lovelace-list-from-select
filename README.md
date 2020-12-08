@@ -1,2 +1,2 @@
-# ha_custom_list
+# List from select
 Simple custom list
